@@ -227,7 +227,7 @@ def start_terminal(cpu, ram, disk):
                 print("REBOOT             - Save RAM to disk and reboot")
                 print("FORMAT             - Format disk")
                 print("EXIT               - Exit PY-DOS")
-
+                print("PRINT <text>       - Print text to screen")
             else:
                 print("Bad command or file name.")
 
