@@ -44,19 +44,19 @@ It recreates the classic DOS experience while providing an educational and expan
 
 ## All Commands
 
-DIR - List files and directories
-TYPE <file> - Show file content
-WRITE <file> <txt> - Write text to a file
-DEL <file> - Delete a file
-RENAME <old> <new> - Rename a file
-COPY <src> <dst> - Copy a file
-MKDIR <folder> - Create a new directory
-CD <folder> - Change current directory
-TREE - Display directory tree
-RAMLOAD <k> <v> - Load a key-value into RAM
-RAMCLEAR - Clear all RAM
-RAMSHOW - Display RAM contents
-SYSINFO - Display system information
-REBOOT - Save RAM to disk and reboot the system
-FORMAT - Format (reset) the disk
-EXIT - Exit PY-DOS
+- DIR - List files and directories
+- TYPE <file> - Show file content
+- WRITE <file> <txt> - Write text to a file
+- DEL <file> - Delete a file
+- RENAME <old> <new> - Rename a file
+- COPY <src> <dst> - Copy a file
+- MKDIR <folder> - Create a new directory
+- CD <folder> - Change current directory
+- TREE - Display directory tree
+- RAMLOAD <k> <v> - Load a key-value into RAM
+- RAMCLEAR - Clear all RAM
+- RAMSHOW - Display RAM contents
+- SYSINFO - Display system information
+- REBOOT - Save RAM to disk and reboot the system
+- FORMAT - Format (reset) the disk
+- EXIT - Exit PY-DOS
