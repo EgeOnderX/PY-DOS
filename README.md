@@ -59,4 +59,5 @@ It recreates the classic DOS experience while providing an educational and expan
 - SYSINFO - Display system information
 - REBOOT - Save RAM to disk and reboot the system
 - FORMAT - Format (reset) the disk
+- PRINT - Print text to screen
 - EXIT - Exit PY-DOS
