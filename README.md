@@ -1,4 +1,4 @@
-# PY-DOS 1.0.0
+# PY-DOS 1.0.1
 
 **PY-DOS** is a retro-inspired, terminal-based operating system simulation written entirely in Python.
 
@@ -20,6 +20,9 @@ It recreates the classic DOS experience while providing an educational and expan
 
 ---
 
+## What's new?
+- Fixed disk.py navigation bug
+
 ## Technical Details
 
 - PY-DOS uses a **"128 MB RAM simulation"** and a **512 MB "virtual disk"** (`disk.json`)
@@ -38,7 +41,7 @@ It recreates the classic DOS experience while providing an educational and expan
 
 ## Screenshots
 
-> ![](PY-DOS/pydos.png)
+<img width="702" height="580" alt="pydos" src="https://github.com/user-attachments/assets/de2e5673-03a2-4d13-9c15-e7f0f9737386" />
 
 ---
 
