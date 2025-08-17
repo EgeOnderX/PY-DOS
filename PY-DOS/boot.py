@@ -406,7 +406,7 @@ def start_terminal(cpu, ram, disk):
                     print("Format cancelled.")
                 else:
                     print("Invalid choice. Format aborted.")
-
+            
             elif cmd == "help":
                 print("=== PY-DOS HELP ===")
                 print("DIR <path>            - List files and directories")
@@ -428,6 +428,7 @@ def start_terminal(cpu, ram, disk):
                 print("FORMAT                - Format the disk (confirmation required)")
                 print("PRINT <text>          - Print text to screen")
                 print("CLEARCPU              - Reset CPU cycles to 0")
+                print("AMS                   - Run Anti-Malware Scan (disk & RAM)")
                 print("EXIT                  - Exit PY-DOS")
             else:
                 print("Bad command or file name.")
@@ -454,3 +455,4 @@ def boot():
 
 if __name__ == "__main__":
     boot()
+
