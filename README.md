@@ -1,4 +1,4 @@
- PY-DOS 1.0.2
+# PY-DOS 1.0.2
 
 **PY-DOS** is a retro-inspired, terminal-based operating system simulation written entirely in Python.
 
