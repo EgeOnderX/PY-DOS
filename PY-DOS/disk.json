@@ -1,0 +1,1 @@
+{"1": "utf8 write 2 utf8 run 1; run 2; print 1", "2": "utf8 run 1", "ams": {}, "amslog": "command_history[cmd_lower] > 300:!!!userinput:r;out:break,boot,ramclear!"}
