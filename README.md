@@ -1,4 +1,4 @@
-# PY-DOS 1.0.2
+# PY-DOS 1.0.3
 
 **PY-DOS** is a retro-inspired, terminal-based operating system simulation written entirely in Python.
 
@@ -22,11 +22,13 @@ It recreates the classic DOS experience while providing an educational and expan
 
 ---
 
-## What's new?
-- Added AMS Virus Protection
-- Added application run system
-- Improved RAM-to-Disk syncing via `REBOOT`
-- Expanded `help` command to include all subcommands
+## What's New?
+- Added **helpall** command for more detailed information.
+- Introduced a **protection counter** against loop viruses.
+- Implemented a new **AMS logging system**.
+- Added a lightweight **edit application**.
+- **Reduced overall size** through optimizations.
+- Added real time protection.
 
 ---
 
@@ -38,6 +40,7 @@ It recreates the classic DOS experience while providing an educational and expan
 - Anti-Malware Service scans for suspicious content, e.g., `format` commands
 - All data is saved between sessions through `disk.json`
 - Cross-platform: Works on Windows, Linux, and macOS
+- Removed the requirement to define separate commands for both run and cmd.
 
 ---
 
@@ -104,6 +107,15 @@ write myapp utf8 print Hello, World!; print Welcome to PY-DOS
 
 
 <img width="751" height="439" alt="image" src="https://github.com/user-attachments/assets/b5405ae0-85c4-4f1d-84ce-2c15c82b0368" />
+
+
+---
+
+
+# Pony Virus Testing 7 fps ( https://github.com/EgeOnderX/PY-DOS-App-Pack/blob/main/viruses/pony/pony.txt )
+
+
+![ams](https://github.com/user-attachments/assets/f7270000-b451-492b-86d0-e32148216ee3)
 
 
 
