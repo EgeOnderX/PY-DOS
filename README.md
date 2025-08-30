@@ -1,4 +1,5 @@
-# PY-DOS 1.0.3
+# This product is no longer supported. Please teka a closer look at: https://github.com/EgeOnderX/PY-DOS-on-ESP32
+## PY-DOS 1.0.3
 
 **PY-DOS** is a retro-inspired, terminal-based operating system simulation written entirely in Python.
 
