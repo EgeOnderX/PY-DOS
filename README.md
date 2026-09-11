@@ -24,6 +24,19 @@ Due to community interest, the project has been updated with an enhanced archite
 * **Python**: 3.8 or higher
 * **Dependencies**: Uses standard Python libraries (`tkinter`, `json`, `os`, `sys`, `subprocess`, `re`, `secrets`, `time`). No third-party packages required.
 
+
+---
+
+## Screenshots
+
+
+<img width="934" height="627" alt="Pydos" src="https://github.com/user-attachments/assets/a8d18ef7-39b6-416d-8c4e-f90b3dbabdb5" />
+
+
+---
+
+<img width="1094" height="722" alt="Pydos1" src="https://github.com/user-attachments/assets/c8a714e4-76b6-4845-a56e-fd0e68a8b7d1" />
+
 ---
 
 ## Installation & Quick Start
